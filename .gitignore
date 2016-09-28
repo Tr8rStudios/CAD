@@ -1,0 +1,5 @@
+# Git Folders
+.git/*
+
+# npm
+node_modules/*

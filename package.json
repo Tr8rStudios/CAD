@@ -1,0 +1,40 @@
+{
+  "name": "CardsAgainstDevelopers",
+  "version": "0.1.0",
+  "description": "Cards Against Developers is a game based off Cards Against Humanity designed to entertain developers",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "homepage": "https://tr8rstudios.github.io/CAD/",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/tr8rstudios/CAD.git"
+  },
+  "keywords": [
+    "mariejs",
+    "marie",
+    "assembly",
+    "learninggrunt ",
+    "javascript"
+  ],
+  "author": "Eric Jiang",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/tr8rstudios/CAD/issues"
+  },
+  "devDependencies": {
+    "grunt": "~1.0.1",
+    "grunt-contrib-clean": "~1.0.0",
+    "grunt-contrib-concat": "^1.0.1",
+    "grunt-contrib-copy": "~1.0.0",
+    "grunt-contrib-jshint": "^1.0.0",
+    "grunt-contrib-uglify": "^1.0.1",
+    "grunt-ejs": "~0.3.0",
+    "grunt-html": "^7.0.0",
+    "grunt-open": "~0.2.3",
+    "grunt-regenerator": "^3.1.0",
+    "load-grunt-tasks": "^3.5.0",
+    "grunt-contrib-connect": "~1.0.2",
+    "grunt-jsdoc": "~2.1.0"
+  }
+}
