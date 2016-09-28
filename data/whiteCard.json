@@ -4,6 +4,10 @@
     {
       "id" : 1,
       "phrase": "The most beautiful part about programming is [blank]"
+    },
+    {
+      "id" : 2,
+      "phrase": "[blank] is really amazing"
     }
   ]
 }
